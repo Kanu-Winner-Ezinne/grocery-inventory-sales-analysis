@@ -15,6 +15,27 @@ The analysis combines sales and inventory data to identify revenue-generating pr
 - Evaluate supplier revenue contribution and inventory turnover.
 - Identify potential inventory imbalances and opportunities for improved stock planning.
 
+
+<img width="2767" height="1600" alt="Grocery_Inventory _analysis-1" src="https://github.com/user-attachments/assets/b5fa2780-a30b-412f-a842-7db1b8f68fbc" />
+
+
+-----
+
+<img width="2767" height="1600" alt="Grocery_Inventory _analysis-2" src="https://github.com/user-attachments/assets/0171db2e-5cbd-4a79-ab22-0817f5c4a35f" />
+
+
+------
+
+<img width="2767" height="1600" alt="Grocery_Inventory _analysis-3" src="https://github.com/user-attachments/assets/ed47aa10-32e4-4adc-947a-2ba34a81985e" />
+
+
+-----
+
+<img width="2767" height="1600" alt="Grocery_Inventory _analysis-4" src="https://github.com/user-attachments/assets/0009d631-4b72-4836-ad6d-117cdb0868e1" />
+
+
+-----
+
 ## Tools and Technologies
 
 - Power BI
